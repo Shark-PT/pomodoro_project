@@ -1,6 +1,6 @@
 # pomodoro_project
 
-Versão 1.0
+Versão 1.0\n
 
 Projecto feito no curso online "100 days of code", de Angela Yu
 
